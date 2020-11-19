@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "✨ root",
+			"path": ".."
+		},
+		{
+			"name": "📦 dataflow",
+			"path": "../dataflow"
+		}
+	],
+	"settings": {
+	}
+}
